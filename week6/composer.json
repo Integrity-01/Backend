@@ -1,0 +1,9 @@
+{
+    "name": "doctrine/cache",
+    "autoload": {
+        "psr-4": {
+            "Doctrine\\Cache\\": "src/"
+        }
+    },
+    "require": {}
+}
