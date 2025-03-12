@@ -2,8 +2,8 @@
 session_start();
 
 // GitHub OAuth credentials
-$clientID = 'Ov23liAkvER6P3nYnm2x'; // Your GitHub Client ID
-$clientSecret = 'f0f1ff3f46625da7f532f66d52255e16c7e279fb'; // Your GitHub Client Secret
+$clientID = 'Ov23liy6fW6ISIlvfa7l'; // Your GitHub Client ID
+$clientSecret = '72df08ab132f2f2844beb0322c61ceb32ce02ef1'; // Your GitHub Client Secret
 $redirectURI = 'http://localhost/week6q2/github_callback.php'; // Updated callback URL
 
 // Step 1: Redirect user to GitHub's OAuth server
